@@ -1,13 +1,13 @@
 WorldLive
 =========
 
-###Team Members
-
-Grace Chen, Alyssa Lambert, Brittany H.
-
 PearlHacks 2013, March 22-23
 
 Novice category (first-time hackathoners, first-time Android app designers)
+
+###Team Members
+
+Grace Chen, Alyssa Lambert, Brittany H.
 
 ###Project Description
 
